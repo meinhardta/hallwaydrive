@@ -1,5 +1,5 @@
 # Hallway Drive
-<b>EASTBHS: Mapped out Version of Bentonville High School In Unity</b>
+<b>BHS: Mapped out Version of Bentonville High School In Unity</b>
 
 Based on http://bentonvillek12.org/bhs/documents/map2.pdf
 
