@@ -3,12 +3,13 @@
 
 Based on http://bentonvillek12.org/bhs/documents/map2.pdf
 
-Excel Progress Link: https://docs.google.com/spreadsheets/d/1C5_XOR5xDMEV5tmL3Y68-4yyGexCwVNkzywp3vz8ras/edit?usp=sharing
+<br>Excel Progress Link: https://docs.google.com/spreadsheets/d/1C5_XOR5xDMEV5tmL3Y68-4yyGexCwVNkzywp3vz8ras/edit?usp=sharing<br>
 
-Google Drive: https://drive.google.com/drive/folders/1n1F79iW1_Ns19R25sjxx9d244ra0Hf4H?usp=sharing
+<br>Google Drive: https://drive.google.com/drive/folders/1n1F79iW1_Ns19R25sjxx9d244ra0Hf4H?usp=sharing
 
 
 
 Latest Version: https://drive.google.com/open?id=1fnwVfDlPTTJFgKj95_7iWagzsvRIKlGI
 <img src="/F.PNG" alt="">
 <img src="/E.PNG" alt="">
+
